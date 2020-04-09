@@ -1,0 +1,17 @@
+@font-face {
+	font-family: Roboto regular;
+	src: url('Roboto-Regular.ttf');
+}
+	
+p {
+	text-align: center;
+	font-family: Roboto regular;
+	font-size: 130%;
+}
+	
+.center {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 4%;
+}
